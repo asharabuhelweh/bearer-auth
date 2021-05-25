@@ -33,7 +33,7 @@ authRouter.get('/users', bearerAuth, async (req, res, next) => {
   // const users = await User.find({});
   // const list = users.map(user => user.username);
   // res.status(200).json(list);
-  await res.status(200).json({user : req.user.username});
+  await res.status(200).json({user : req.user.username});//to get the user 
 });
 
 authRouter.get('/secret', bearerAuth, async (req, res, next) => {
