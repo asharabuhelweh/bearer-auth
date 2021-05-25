@@ -59,7 +59,7 @@ npm start
    {
     "user": {
         "_id": "60ad52266c65ff3c439d5448",
-        "username": "hadeel",
+        "username": "ashar",
         "password": "$2b$10$R6.z/JsX.AcJVhQfl3M9quRi/A6hPH7vCaYuidH8LLrxdko3d9x.C",
         "__v": 0
     },
@@ -90,7 +90,12 @@ npm start
 
 <hr>
 
+### Test the app 
+`npm test`
+
+![test](assets/test-a.PNG)
+
 ### UML
 
 
-![uml](uml.png)
+![uml](./assets/uml.png)
