@@ -2,11 +2,11 @@
 
 ## Author: As-har Abuhelweh
 
-* [Tests Report]()
+* [Tests Report](https://github.com/asharabuhelweh/bearer-auth/actions)
 
-* [Heroku Deployment]()
+* [Heroku Deployment](https://ashar-bearer-auth.herokuapp.com/)
 
-* [Pull Request]()
+* [Pull Request](https://github.com/asharabuhelweh/bearer-auth/pull/4)
 
 <hr>
 
