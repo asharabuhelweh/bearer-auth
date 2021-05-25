@@ -24,7 +24,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/',authRoutes);
 app.get('/', homePageHandler);
 function homePageHandler(req, res) {
-  res.send('welcome to home page');
+  res.send('welcome to home page :)');
 }
 
 // Catchalls
